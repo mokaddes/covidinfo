@@ -1,0 +1,313 @@
+.card_form textarea {
+    height: 100px !important;
+}
+
+.card_form .form-control,
+.card_form .select2-container .select2-selection--single {
+    height: 38px;
+    border: 1px solid #ddd !important;
+    box-shadow: none !important;
+    outline: none !important;
+    border-radius: 2px;
+}
+
+.dropify-wrapper {
+    border: 1px solid #DDD;
+    border-radius: 2px;
+}
+
+.card_form .select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: #444;
+    line-height: 35px;
+    font-size: 14px;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow b {
+    margin-top: 2px;
+}
+
+.card_form .form-label {
+    font-size: 14px;
+    color: #222;
+    font-weight: 400;
+}
+
+.note {
+    font-size: 13px;
+    color: #555;
+}
+
+.card_form .form-check {
+    margin-bottom: 7px;
+    padding: 6px 31px;
+    border: 1px solid #f9f6f6;
+    border-radius: 4px;
+}
+
+.card_form .card-body {
+    padding: 32px 34px;
+}
+
+.form_btn .btn {
+    padding: 6px 25px;
+    border-radius: 3px;
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0px 6px;
+}
+
+.card-header p {
+    font-size: 14px;
+    color: #666;
+}
+
+.card-header h4 {
+    font-size: 20px;
+    color: #222;
+    font-weight: 700;
+}
+
+.review_modal h5 {
+    color: #444;
+    font-size: 17px;
+}
+
+.review_modal .modal-body {
+    padding: 27px 22px;
+}
+
+.modal-content.review_modal {
+    border: none;
+    border-radius: 1px;
+}
+
+.review_modal table {
+    width: 100%;
+}
+
+.review_modal table tr td {
+    border: 1px solid #EEE;
+    padding: 10px 14px;
+    font-size: 14px;
+    color: #333;
+    width: 50%;
+}
+
+.header .navbar-light .navbar-toggler {
+    outline: none;
+    box-shadow: none;
+    border: 1px solid #DDD;
+    border-radius: 2px;
+}
+
+.navbar-toggler:focus{
+    outline: none;
+    box-shadow: none;
+}
+
+.info_wrap {
+    background: rgb(13 110 253 / 25%);
+    padding: 18px 13px;
+    margin: 0 auto;
+    border-radius: 4px;
+}
+
+.info_wrap h3 {
+    color: #000;
+    font-size: 59px;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin: 0;
+}
+
+.info_wrap span {
+    color: #000;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+.invoice_heading_text h2 {
+    text-align: center;
+    font-size: 20px;
+    line-height: 32px;
+    color: #222;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+
+.invoice_heading_text p {
+    font-size: 16px;
+    color: #333;
+    font-family: sans-serif;
+    margin: 0;
+    padding-bottom: 15px;
+    line-height: 25px;
+}
+
+.invoice_id span {
+    border: 1px solid #EEE;
+    padding: 12px 21px;
+    border-radius: 6px;
+    background: #EEE;
+}
+
+.invoice_heading_text h5 {
+    font-size: 16px;
+    font-weight: 700;
+    color: #444;
+    margin-bottom: 6px;
+}
+
+.invoice_details p {
+    margin: 0;
+    font-size: 16px;
+    color: #555;
+    margin-bottom: 8px;
+}
+
+.invoice_details p span {
+    font-weight: bold;
+    padding-left: 12px;
+    border-bottom: 1px solid #555;
+    font-size: 14px;
+}
+.vaccination_data h4 {
+    font-size: 18px;
+    color: #444;
+    margin-bottom: 17px;
+    font-weight: 700;
+}
+
+.vaccination_data h4 i {
+    padding-left: 19px;
+    padding-right: 5px;
+}
+
+.vaccination_data span {
+    font-weight: bold;
+    padding-left: 11px;
+    border-bottom: 1px solid #555;
+    font-size: 15px;
+}
+
+
+.vaccination_title h5 {
+    font-size: 15px;
+    font-weight: 700;
+    color: #555;
+    margin-bottom: 14px;
+}
+
+.adverse_errect .form-check {
+    font-size: 15px;
+    color: #111;
+    padding-bottom: 8px;
+}
+
+
+.adverse_errect h5 {
+    font-size: 16px;
+    color: #444;
+    padding-bottom: 11px;
+}
+
+.adverse_errect .form-check span {
+    font-weight: bold;
+    padding-left: 11px;
+    border-bottom: 1px solid #555;
+    font-size: 15px;
+}
+
+.invoice_heading_text {
+    background: #f5f5f5;
+    padding: 30px;
+}
+
+.invoice_details {
+    border: 1px solid #EEE;
+    border-radius: 8px;
+    padding: 22px;
+    background: #f5f5f5;
+}
+
+.success_page .card-header {
+    background: #8BC34A;
+    padding: 35px 10px;
+}
+
+.success_page .card {
+    border: none;
+    box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 3%);
+}
+
+.success_page .card-header i {
+    background: #fff;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    border-radius: 50px;
+    font-size: 26px;
+    padding-top: 12px;
+    color: #8bc34a;
+    margin-bottom: 16px;
+}
+
+.success_page .card-header h4 {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 26px;
+    letter-spacing: 1px;
+    font-weight: 400;
+    margin: 0;
+}
+
+.success_page .card-body {
+    padding: 55px 25px;
+}
+
+.success_page .card-body p {
+    font-size: 16px;
+    color: #555;
+    line-height: 26px;
+    margin: 0;
+}
+
+.success_page .btn.btn-success {
+    margin-top: 52px;
+    background: #8BC34A;
+    border: none;
+    font-size: 17px;
+    border-radius: 3px;
+    outline: none;
+    padding: 11px 28px;
+    box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 14%);
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+}
+
+.success_page .btn.btn-success:hover {
+    box-shadow: none;
+}
+
+
+.footer {
+    background: #AAA;
+    padding: 14px 0px;
+}
+
+.footer p {
+    margin: 0;
+    color: #000;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+
+
+
+
+
+
